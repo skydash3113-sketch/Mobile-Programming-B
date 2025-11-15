@@ -1,7 +1,7 @@
 #### Hi 👋, I'm Firman Fadilah Noor. 
 ##### Saya Mahasiswa Teknik Informatika.
 
-💻Saat ini saya sedang mengajar pemrograman mobile:
+💻Saat ini saya sedang belajar pemrograman mobile:
 
 | No  | Minggu ke  | Praktikum ke  | Topik  | Modul | Template Laporan |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
